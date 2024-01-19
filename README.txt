@@ -1,5 +1,4 @@
 Readme File
-Github:https://github.com/skynet10
 
 Web Spiders is a web scraping tool developed in python that can work 
 with lists of urls,allowing you to scrape multiple websites at the same time. 
